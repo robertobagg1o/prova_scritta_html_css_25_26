@@ -1,0 +1,105 @@
+html, body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+body {
+    font-family: verdana, arial, helvetica, sans-serif;
+}
+.nav {
+    text-align: center;
+    background-color: #ffd700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px;
+    border-color: #e7e7e7;
+}
+.nav li {
+font-size: 20px;
+font-weight: bold;
+margin-left: 40px;
+margin-right: 40px;
+display: inline;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.main {
+text-align: center;
+width: 900px;
+height: 900px;
+margin: 0 auto 0 auto;
+
+}
+
+.footer img{
+width: 50px;
+
+}
+
+.footer li {
+    display: inline;
+}
+
+.footer {  
+    background-color: #FFD700;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+}
+
+.cv img {
+    float: left;
+    width: 60px;
+    height: 60px;
+    padding-right: 10px; 
+}
+
+.cv ul {
+    padding-left: 0px;
+}
+
+.cv li {
+    display: block;
+    text-align: justify;
+    border-bottom: 1px;
+    border-color: #FFD700;
+}
+
+.me {
+    text-align: justify;
+}
+.me img {
+    float:left;
+    padding-right: 10px;
+}
+
+.courses img {
+float: left;
+width: 170px;
+height: 210px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+
+.courses li {
+display: block;
+width: 900px;
+height: 210px;
+
+}
+
+.courses p {
+    text-align: justify;
+    margin-top: 1px;
+}
+
